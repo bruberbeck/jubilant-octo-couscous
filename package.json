@@ -12,9 +12,12 @@
   },
   "keywords": [],
   "author": "https://github.com/bruberbeck",
-  "license": "GPL",
+  "license": "GPL-2.0-or-later",
   "bugs": {
     "url": "https://github.com/bruberbeck/jubilant-octo-couscous/issues"
   },
-  "homepage": "https://github.com/bruberbeck/jubilant-octo-couscous#readme"
+  "homepage": "https://github.com/bruberbeck/jubilant-octo-couscous#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
