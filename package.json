@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/bruberbeck/jubilant-octo-couscous#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.3.0"
   }
 }
