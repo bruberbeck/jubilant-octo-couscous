@@ -1,0 +1,17 @@
+{
+    "properties": {
+        "Birthday": {
+            "bsonType": "date"
+        },
+        "FirstName": {
+            "bsonType": "string"
+        },
+        "LastName": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "Patient"
+}
